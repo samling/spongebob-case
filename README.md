@@ -1,3 +1,7 @@
+### Description
+
+Spongebob-case memeifier script for when your sarcasm can't properly be expressed in normal letters.
+
 ### Usage
 
 ```
